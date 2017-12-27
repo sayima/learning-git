@@ -1,3 +1,6 @@
 Scale -Geoffrey West
 ====================
   Get insight into the complex relationships of size and scale.
+  ------------------------------------------------------------
+  what are known as scaling Laws :The laws that govern relationships between various
+  phenomena as they scale.
